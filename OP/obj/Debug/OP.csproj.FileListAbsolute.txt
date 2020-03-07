@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\OP\OP\bin\Debug\OP.exe.config
+C:\Users\HP\source\repos\OP\OP\bin\Debug\OP.exe
+C:\Users\HP\source\repos\OP\OP\bin\Debug\OP.pdb
+C:\Users\HP\source\repos\OP\OP\obj\Debug\OP.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\OP\OP\obj\Debug\OP.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\OP\OP\obj\Debug\OP.exe
+C:\Users\HP\source\repos\OP\OP\obj\Debug\OP.pdb
